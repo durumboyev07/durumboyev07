@@ -30,16 +30,6 @@
 
 ---
 
-## 🌠 `INTERACTIVE CYBERPUNK PROFILE`
-
-<div align="center">
-
-[![Open Profile](https://img.shields.io/badge/👾_OPEN_CYBERPUNK_PROFILE-ENTER-a78bfa?style=for-the-badge&labelColor=04021a)](https://durumboyev07.github.io/durumboyev07/profile.html)
-
-</div>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04021a,50:1a0a3e,100:04021a&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
