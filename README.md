@@ -24,8 +24,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=durumboyev07&theme=tokyonight&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888)](https://git.io/streak-stats)
-
 </div>
 
 <div align="center">
