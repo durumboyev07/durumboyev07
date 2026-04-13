@@ -7,12 +7,12 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff90?style=flat-square&logo=circle&logoColor=00ff90)
-![Node](https://img.shields.io/badge/NODE-TASHKENT--01-00f5ff?style=flat-square)
+![Node](https://img.shields.io/badge/NODE-XORAZM--01-00f5ff?style=flat-square)
 ![Access](https://img.shields.io/badge/ACCESS-GRANTED-ff006e?style=flat-square)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=%E2%96%B8+BACKEND+DEVELOPER+%E2%97%82;%2F%2F+Python+%7C+Django+%7C+Flask;%2F%2F+PostgreSQL+%7C+Redis+%7C+Docker;%2F%2F+Linux+%7C+Git+%7C+GitHub;NODE%3A+TASHKENT-01+%7C+STATUS%3A+ONLINE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=%E2%96%B8+BACKEND+DEVELOPER+%E2%97%82;%2F%2F+Python+%7C+Django+%7C+Flask;%2F%2F+PostgreSQL+%7C+Redis+%7C+Docker;%2F%2F+Linux+%7C+Git+%7C+GitHub;NODE%3A+XORAZM-01+%7C+STATUS%3A+ONLINE)](https://git.io/typing-svg)
 
 </div>
 
