@@ -18,8 +18,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=durumboyev07&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durumboyev07&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=durumboyev07&theme=tokyonight"/>
 
 </div>
 
