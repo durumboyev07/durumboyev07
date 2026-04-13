@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Exploring+the+Digital+Universe;⚡+Backend+Engineer+from+Tashkent-01)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Exploring+the+Digital+Universe;⚡+Backend+Engineer+from+Xorazm-01)](https://git.io/typing-svg)
 
 </div>
 
