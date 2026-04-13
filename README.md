@@ -11,10 +11,10 @@
 ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝  ╚═════╝    ╚═╝
 ```
 
-**`// BACKEND DEVELOPER · NIGHT CITY · TASHKENT-01`**
+**`// BACKEND DEVELOPER · NIGHT CITY · XORAZM-01`**
 
 [![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff90?style=flat-square&labelColor=0d0008)](.)
-[![Location](https://img.shields.io/badge/LOCATION-TASHKENT--01-00f5ff?style=flat-square&labelColor=0d0008)](.)
+[![Location](https://img.shields.io/badge/LOCATION-XORAZM--01-00f5ff?style=flat-square&labelColor=0d0008)](.)
 [![Pronouns](https://img.shields.io/badge/PRONOUNS-HE%2FHIM-ff006e?style=flat-square&labelColor=0d0008)](.)
 
 </div>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### 👾 [[ ОТКРЫТЬ CYBERPUNK ПРОФИЛЬ ]](https://DURUMBOY.github.io/DURUMBOY/profile.html)
+### 👾 [[ ОТКРЫТЬ CYBERPUNK ПРОФИЛЬ ]](https://DURUMBOY.github.io/durumboyev07/profile.html)
 
 > ⚡ *Интерактивный профиль с анимацией — лучше смотреть в браузере*
 
