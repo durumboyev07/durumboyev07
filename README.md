@@ -18,8 +18,8 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=durumboyev07&show_icons=true&bg_color=04021a&border_color=7c3aed&icon_color=60a5fa&title_color=a78bfa&text_color=e2e8f0&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durumboyev07&layout=compact&bg_color=04021a&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=durumboyev07&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durumboyev07&layout=compact&theme=tokyonight"/>
 
 </div>
 
