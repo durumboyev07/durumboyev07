@@ -128,51 +128,27 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durumboyev07/durumboyev07/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durumboyev07/durumboyev07/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/durumboyev07/durumboyev07/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+[![durumboyev07's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durumboyev07&theme=tokyo-night&hide_border=true&bg_color=0d0520&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=3d1a7a&radius=8)](https://github.com/durumboyev07)
 
 </div>
 
-<details>
-<summary>⚙️ Snake animatsiyasini yoqish uchun bosing</summary>
-<br/>
+<div align="center">
 
-`.github/workflows/snake.yml` faylini yarating:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durumboyev07&theme=tokyonight" width="95%"/>
 
-```yaml
-name: Generate Snake
+</div>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+<div align="center">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durumboyev07&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durumboyev07&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durumboyev07&theme=tokyonight" width="32%"/>
 
-</details>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
